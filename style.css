@@ -1,0 +1,33 @@
+.angle{
+  height: 0;
+  width: 0;
+  border-top: 20px solid red;
+  border-bottom: 20px solid blue;
+  border-right: 20px solid black;
+  border-left: 20px solid green;
+}
+
+.angle{
+  height: 0;
+  width: 0;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid blue;
+  border-right: 20px solid transparent;
+  border-left: 20px solid green;
+}
+
+.angle{
+  height: 0;
+  width: 0;
+  border-top: 20px solid red;
+  border-bottom: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+}
+
+.rad{
+  width:100px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
