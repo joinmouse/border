@@ -1,8 +1,8 @@
 .all{
-  width:200px;
-  height:200px;
+  width:100px;
+  height:100px;
 }
-.angle{
+.angle1{
   height: 0;
   width: 0;
   border-top: 20px solid red;
@@ -11,7 +11,7 @@
   border-left: 20px solid green;
 }
 
-.angle{
+.angle2{
   height: 0;
   width: 0;
   border-top: 20px solid transparent;
@@ -20,7 +20,7 @@
   border-left: 20px solid green;
 }
 
-.angle{
+.angle3{
   height: 0;
   width: 0;
   border-top: 20px solid red;
